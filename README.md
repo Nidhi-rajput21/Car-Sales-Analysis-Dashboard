@@ -25,6 +25,8 @@
 
 ### Key Insights:
 
-#### Provided a clear view of car sales trends across 2022–2023.
-#### Identified top-performing regions and companies based on sales volume and average price.
-#### Demonstrated growth/decline patterns through YTD and YOY KPIs.
+#### Cleaned and formatted a 23K-row car sales dataset (2022–2023) in Excel to ensure data accuracy and consistency.
+
+#### Built interactive overview and detailed dashboards in Power BI using DAX-based KPIs (YTD, PYTD, YOY, MTD) for total sales, average price, and cars sold.
+
+#### Visualized sales trends by region, company, body style, and color using line, donut, map, and matrix visuals to derive key business insights.
